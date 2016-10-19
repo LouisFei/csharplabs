@@ -22,5 +22,5 @@ namespace TraceSample
 }
 /*
  https://msdn.microsoft.com/zh-cn/library/system.diagnostics.trace(VS.90).aspx
-
+ http://www.cnblogs.com/luminji/archive/2010/10/26/1861316.html
  */
